@@ -1,4 +1,4 @@
-## Olá, meu nome é Lizandra Bonfim :wave:
+## Olá, meu nome é Lizandra Bonfim :raising_hand:
 
 - :computer: Atualmente estou estudando: Typescript, JavaScript, CSharp, NodeJs, ReactJS e Postgres.
 - :mortar_board: Formada em Administração de Empresas e Cursando Técnologo em Análise e Desenvolvimento de Sistemas.
